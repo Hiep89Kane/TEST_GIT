@@ -1,3 +1,4 @@
-*/
-!Core/
-!abc
+/*
+!/Core
+/Core/*
+!/Core/Inc
