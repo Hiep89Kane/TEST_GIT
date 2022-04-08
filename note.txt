@@ -1,0 +1,2 @@
+V1 : Use ACS712 - 20 A
+V2 : Use ACS711 - 12.5 A
